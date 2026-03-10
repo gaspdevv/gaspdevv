@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Efe 👋
 
-<!--
-**gaspdevv/gaspdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Programming student at Düzce University
+🌐 Aspiring Full-Stack Web Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Studying Computer Programming at Düzce University
+* 🌱 Currently improving my skills in **Full-Stack Web Development**
+* 💻 I know **HTML, CSS and JavaScript**
+* 📚 Continuously learning new technologies
+
+## 🛠️ Technologies I Use
+
+* HTML
+* CSS
+* JavaScript
+
+## 🎯 Goals
+
+* Become a professional **Full-Stack Web Developer**
+* Build real-world web applications
+* Work with international teams and projects
+
+## 📫 Contact
+
+* My Carrd: https://gaspdev.carrd.co/
+
+---
+
+⭐ Always learning, always building.
