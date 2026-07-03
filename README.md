@@ -7,14 +7,14 @@
 
 * 🎓 Studying Computer Programming at Düzce University
 * 🌱 Currently improving my skills in **Full-Stack Web Development**
-* 💻 I know **HTML, CSS and JavaScript**
+* 💻 I know **HTML, CSS and C#**
 * 📚 Continuously learning new technologies
 
 ## 🛠️ Technologies I Use
 
 * HTML
 * CSS
-* JavaScript
+* C#
 
 ## 🎯 Goals
 
